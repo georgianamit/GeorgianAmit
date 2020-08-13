@@ -29,7 +29,7 @@ const georgianamit = {
         misc: [ "Redux", "Firebase", "Postman", "VSCode"]
     },
     architecture: ["Single page applications", "Serverless Architecture",  "microservices", "event-driven", "design system pattern"],
-    currentProject: "I am developing an URL shortner website.",
+    currentProject: "I am developing an URL shortner website. Also working on a Hacker poll app.",
 }
 ```
 
